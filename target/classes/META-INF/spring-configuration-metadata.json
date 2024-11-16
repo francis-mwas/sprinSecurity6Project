@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "spring.security",
+      "type": "com.dailycodebuffer.security.config.ApplicationPropertiesConfig",
+      "sourceType": "com.dailycodebuffer.security.config.ApplicationPropertiesConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.security.permit-all-urls",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.dailycodebuffer.security.config.ApplicationPropertiesConfig"
+    }
+  ],
+  "hints": []
+}
